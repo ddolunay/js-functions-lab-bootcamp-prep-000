@@ -1,2 +1,3 @@
-function greetings (happyHollidays)
-console.log("Happy holidays!")
+function greetings ("Happy", "holidays!")
+console.log(greetings)
+
