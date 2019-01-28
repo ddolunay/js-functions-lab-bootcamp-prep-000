@@ -1,16 +1,5 @@
-function happyHolidays ()
-happyHolidays()
+function happyHolidays()
 
 
 
 
-function mesaj() 
-{ 
- 
-alert("merhaba javascript dünyası"); 
- 
-} 
- 
-mesaj();  //fonksiyon çağrılıyor
- 
-mesaj();  //fonksiyon çağrılıyor
