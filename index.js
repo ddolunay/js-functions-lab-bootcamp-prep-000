@@ -6,10 +6,3 @@ function happyHolidays(happy,Holidays){
 
 
 
-function okul (ad,sinif)
- 
-{
- 
-alert ( "Hoşgeldiniz " + ad + "," + sinif );
- 
-}
