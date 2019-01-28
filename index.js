@@ -1,2 +1,2 @@
-function happyHolidays (happyHollidays)
+function greetings (happyHollidays)
 console.log("Happy holidays!")
